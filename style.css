@@ -1,0 +1,27 @@
+body{
+  
+  background: url(./image/pexels-andre-furtado-1162251.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.form-group button{
+  background-color: #ffffff10;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  
+}
+
+#city-input, #weather-output {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #ffffff10;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color:#FFD23F ;
+}
+
+.banner {
+  color: #FFD23F;
+  font-family: sans-serif;
+}
