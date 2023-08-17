@@ -19,6 +19,11 @@ Description
 
 The Weather App is a straightforward web application that utilizes the OpenWeatherMap API to provide users with weather information for a given city. Users can input the name of the city they want to search for, and the app will display the current weather conditions, temperature, minimum temperature, and maximum temperature for that city.
 
+
+![weatherApp](https://github.com/adnane84/Weather-app/assets/92402125/f653ec19-caa9-4683-b193-dba97cceada9)
+
+
+
 The app is built using HTML, CSS (including the Bootstrap framework), and JavaScript. The layout is simple and user-friendly, with a clean interface that allows users to easily interact with the app and retrieve weather data.
 Getting Started
 Prerequisites
